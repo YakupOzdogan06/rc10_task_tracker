@@ -1,0 +1,13 @@
+import React from "react";
+
+const Header = () => {
+  return (
+    <div>
+      <div className="d-flex justify-content-evenly align-items-center">
+        <h1>TASK TRACKER</h1>
+      </div>
+    </div>
+  );
+};
+
+export default Header;
